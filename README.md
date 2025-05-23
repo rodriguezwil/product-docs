@@ -1,29 +1,21 @@
-# product-docs
-SOPs, workflows, and stakeholder-facing documentation that showcase best practices in product management, network service rollout, and change management.
+# 🧾 Product Documentation
 
-# 📁 Product Docs
-
-## ✨ Overview
-
-A collection of SOPs, stakeholder documentation, and internal workflows used in managing complex product rollouts, network changes, and procurement coordination.
+This repository showcases real-world and conceptual product documentation based on telecom, cloud, and data-centric solutions. These documents demonstrate product planning, feature development, stakeholder alignment, and go-to-market strategy.
 
 ---
 
-## 🔧 Contents
+## 📊 Number Management Dashboard (Telecom SaaS)
 
-- Change Management SOPs
-- Order Management Workflows
-- Internal Product Rollout Plans
-- Meeting Briefs & Stakeholder Updates
+A telecom number visibility dashboard to empower enterprise clients with number tracking, porting status, and failover readiness.
+
+📂 [View Product Folder](./number-dashboard)
+
+📌 Includes:
+- Product overview
+- User stories and personas
+- Feature list and roadmap
+- Release planning docs
 
 ---
 
-## 🧠 Tools
-
-`Notion` | `Word` | `Jira` | `Confluence` | `Markdown`
-
----
-
-## 📌 Status
-
-✅ Complete – Samples being refined for public upload
+More product briefs will be added as I expand this library.
